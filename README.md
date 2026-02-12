@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="nrql2nerd" width="420" />
+  <img src="https://raw.githubusercontent.com/saiden-dev/nrql2nerd/main/logo.png" alt="nrql2nerd" width="420" />
 </p>
 
 <h1 align="center">NRQL2Nerd</h1>
