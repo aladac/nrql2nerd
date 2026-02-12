@@ -1,10 +1,19 @@
-# NRQL2Nerd
+<p align="center">
+  <img src="logo.png" alt="nrql2nerd" width="140" />
+</p>
 
-[![Ruby](https://github.com/aladac/nrql2nerd/actions/workflows/main.yml/badge.svg)](https://github.com/aladac/nrql2nerd/actions/workflows/main.yml)
-[![Gem Version](https://badge.fury.io/rb/nrql2nerd.svg)](https://badge.fury.io/rb/nrql2nerd)
-[![Ruby Style Guide](https://img.shields.io/badge/code_style-rubocop-brightgreen.svg)](https://github.com/rubocop/rubocop)
+<h1 align="center">NRQL2Nerd</h1>
 
-A lightweight Ruby gem for executing NRQL queries against New Relic's NerdGraph API. Skip the boilerplate and get straight to your data.
+<p align="center">
+  <a href="https://github.com/saiden-dev/nrql2nerd/actions/workflows/main.yml"><img src="https://github.com/saiden-dev/nrql2nerd/actions/workflows/main.yml/badge.svg" alt="Ruby"></a>
+  <a href="https://badge.fury.io/rb/nrql2nerd"><img src="https://badge.fury.io/rb/nrql2nerd.svg" alt="Gem Version"></a>
+  <a href="https://github.com/rubocop/rubocop"><img src="https://img.shields.io/badge/code_style-rubocop-brightgreen.svg" alt="Ruby Style Guide"></a>
+</p>
+
+<p align="center">
+  A lightweight Ruby gem for executing NRQL queries against New Relic's NerdGraph API.<br/>
+  Skip the boilerplate and get straight to your data.
+</p>
 
 ## Features
 
